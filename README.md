@@ -32,10 +32,7 @@ For Software:
 - Chart.js, Lucide React, Tailwind CSS
 - VScode
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+F
 
 ### Implementation
 For Software:
@@ -56,38 +53,6 @@ https://drive.google.com/file/d/1wxCs8YXToWKG1ADZb989d0OkXzhkYiYf/view?usp=drive
 https://drive.google.com/file/d/1xFRcCsIt3clYOURq-DMzaMB0vYhNU_qx/view?usp=drivesdk
 https://drive.google.com/file/d/1wl2-KxSSe33FPbWdpsukCVl8LbGIL57o/view?usp=drivesdk
 https://drive.google.com/file/d/1ZIHKPpP1p9NrzvrHmUaR815cgL8r30aG/view?usp=drivesdk
-
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Team](Add photo of your team here)
-
-
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-
-
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contribution
 project lead:kamar nisha fathima 
