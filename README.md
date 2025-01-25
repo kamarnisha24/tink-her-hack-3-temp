@@ -32,7 +32,7 @@ For Software:
 - Chart.js, Lucide React, Tailwind CSS
 - VScode
 
-F
+
 
 ### Implementation
 For Software:
