@@ -55,9 +55,9 @@ https://drive.google.com/file/d/1wl2-KxSSe33FPbWdpsukCVl8LbGIL57o/view?usp=drive
 https://drive.google.com/file/d/1ZIHKPpP1p9NrzvrHmUaR815cgL8r30aG/view?usp=drivesdk
 
 ## Team Contribution
-project lead:kamar nisha fathima 
+project lead: Kamar Nisha Fathima
 
-project manager:malavika e d
+project manager: Malavika E D
 
 ---
 Made with ❤️ at TinkerHub
