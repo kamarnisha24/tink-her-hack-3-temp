@@ -27,9 +27,9 @@ The solution is to create a Blood Donor Connector platform that efficiently link
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- html,css,java script
-- html,css
-- java script
+- html,css,java script,type script
+- Next.js, React
+- Chart.js, Lucide React, Tailwind CSS
 - VScode
 
 For Hardware:
@@ -40,10 +40,13 @@ For Hardware:
 ### Implementation
 For Software:
 # Installation
-[commands]
+git clone https://github.com/your-repo/donor-vie.git
+cd donor-vie
+npm install
 
 # Run
-[commands]
+npm run dev
+
 
 ### Project Documentation
 For Software:
@@ -86,10 +89,9 @@ For Hardware:
 # Additional Demos
 [Add any extra demo materials/links]
 
-## Team Contributions
-- Kamar Nisha Fathima: coding
-- Malavika E D: IDEA
-
+## Team Contribution
+project lead:kamar nisha fathima 
+project manager:malavika e d
 
 ---
 Made with ❤️ at TinkerHub
