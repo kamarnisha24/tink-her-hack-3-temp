@@ -42,8 +42,7 @@ git clone https://github.com/your-repo/donor-vie.git
 cd donor-vie
 npm install
 
-# Run
-npm run dev
+
 
 
 ### Project Documentation
