@@ -1,17 +1,17 @@
-# [Project Name] 🎯
+# DonorVie 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: ALGO
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Kamar Nisha Fathima - Mar baselios christian college of engineering and technology
+-Member 2: Malavika E D - Mar baselios christian college of engineering and technology
+  
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+
 
 ### Project Description
 [2-3 lines about what your project does]
